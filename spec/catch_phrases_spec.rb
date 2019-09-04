@@ -1,4 +1,4 @@
-derequire 'spec_helper'
+require 'spec_helper'
 
 describe "mario" do
   it "puts out 'It's-a me, Mario!'" do
